@@ -10,12 +10,12 @@ Soy estudiante de senati para programación en desarrollo de software con inteli
 -Trabajo con bases de datos.
 - Desarrollo web básico.
 
- ## Lenguajes que domino: 
+## Lenguajes que domino: 
  - Python -nivel basico
 - JavaScript - nivel basico
 -  HTML y CSS
  
- Aplicaciones que he desarrollado:
+## Aplicaciones que he desarrollado:
 - Calculadora en Python
 - Página web personal
 -  Sistema básico de inventario
@@ -25,4 +25,5 @@ He realizado proyectos basicos en clases e investigo proyectos para mejorar mis 
 
 ## Retos:
 - ser un profesional programdando con  Python y JavaScript.
+- poder crear un videojuego
 
